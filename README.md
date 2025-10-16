@@ -1,6 +1,6 @@
-# DJI Streamer
+# DJI Streamer V5
 
-Application based on the DJI Mobile SDK for streaming synchronized video data and flight data using websockets to a custom-made server. It provides basic control functionality, such as in the DJI Go 4 / DJI Fly apps. The app should be compatible with most of the DJI drones (tested on Mavic Mini 1, Mavic Pro, Mavic 2 Dual Enterprise).
+Application based on the DJI Mobile SDK V5 for streaming synchronized video data and flight data using websockets to a custom-made server. It provides basic control functionality, such as in the DJI Go 4 / DJI Fly apps. The app should be compatible with DJI drones supported by MSDKV5 (tested on Mavic Mini 3).
 
 <img src=gui.png>
 

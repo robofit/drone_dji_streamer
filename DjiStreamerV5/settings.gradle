@@ -1,0 +1,4 @@
+rootProject.name = "DjiStreamerV5"
+include ':app'
+include ':uxsdk'
+project(':uxsdk').projectDir = new File(rootProject.projectDir, 'android-sdk-v5-uxsdk')
